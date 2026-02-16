@@ -1,6 +1,6 @@
 <h1 align="center">Fullstack Developer 🇧🇴</h3>
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&pause=2000&color=717171&background=53FF2500&center=true&vCenter=true&width=435&lines=Livin'+On+A+Prayer;+Someday+I+will+be+one+of+the+best" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&pause=2000&color=717171&background=53FF2500&center=true&vCenter=true&width=435&lines=Livin'+On+A+Prayer;Compren+vino%2C+no+traigan+flores" alt="Typing SVG" /></a>
 
 <img src="/github-metrics.svg" alt="Metrics" width="96.5%">
 
